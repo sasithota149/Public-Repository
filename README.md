@@ -1,2 +1,2 @@
 # Public-Repository
-entering into the repo
+entering into the repository
